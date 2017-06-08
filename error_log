@@ -1,0 +1,63 @@
+[13-Jul-2015 17:49:12 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:13 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:22 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:35 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:36 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:37 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:49:38 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:03 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:06 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:21 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:25 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:27 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:44 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:50:49 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:51:01 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:51:38 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:51:39 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:52:32 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/eumobile/public_html/play/backend/connection.php on line 7
+[13-Jul-2015 17:57:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:57:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:59:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:59:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 17:59:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:00:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:02:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:02:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:03:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:05:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'eumobile.mk' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:05:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'eumobile.mk' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:06:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:06:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:07:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:08:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:12:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:13:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/backend/connection.php on line 5
+[13-Jul-2015 18:14:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 13
+[13-Jul-2015 18:17:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 13
+[13-Jul-2015 18:17:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 13
+[13-Jul-2015 18:18:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 12
+[13-Jul-2015 18:19:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:19:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:24:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:24:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:26:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:26:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:26:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '5.9.195.49' (110) in /home/eumobile/public_html/play/index.php on line 10
+[13-Jul-2015 18:47:21 UTC] PHP Fatal error:  Undefined class constant 'ERRMODE_EXEPTION' in /home/eumobile/public_html/play/index.php on line 12
+[13-Jul-2015 18:49:05 UTC] PHP Fatal error:  Call to undefined function fetch() in /home/eumobile/public_html/play/index.php on line 18
+[13-Jul-2015 18:49:07 UTC] PHP Fatal error:  Call to undefined function fetch() in /home/eumobile/public_html/play/index.php on line 18
+[13-Jul-2015 18:49:11 UTC] PHP Fatal error:  Call to undefined function fetch() in /home/eumobile/public_html/play/index.php on line 18
+[13-Jul-2015 18:57:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES)' in /home/eumobile/public_html/play/index.php:24
+Stack trace:
+#0 /home/eumobile/public_html/play/index.php(24): PDO->__construct('mysql:dbname=da...', 'user', 'password')
+#1 {main}
+  thrown in /home/eumobile/public_html/play/index.php on line 24
+[13-Jul-2015 19:03:01 UTC] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE) in /home/eumobile/public_html/play/index.php on line 9
+[13-Jul-2015 19:03:02 UTC] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE) in /home/eumobile/public_html/play/index.php on line 9
