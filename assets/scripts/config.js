@@ -3,7 +3,7 @@ if (typeof app == 'undefined') {
 }
 app.config = {
     server_configuration: {
-        url: 'http://play.eumobile.mk/backend/api.php?req='
+        url: 'http://'
     },
     filters: {
         name: true,
